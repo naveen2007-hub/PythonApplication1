@@ -1,0 +1,12 @@
+{
+  "medications": [],
+  "log": [],
+  "profile": {
+    "name": "",
+    "age": "",
+    "weight": "",
+    "conditions": "",
+    "default_snooze": 10,
+    "notifications": true
+  }
+}
